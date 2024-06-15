@@ -33,6 +33,9 @@ button {
     padding: 10px 24px;
     border-radius: 8px;
 }
+img {
+    background-color: grey;
+}
 .content_left {
     /* padding-bottom: 200px; */
 }
