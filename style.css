@@ -7,7 +7,7 @@
     padding-left: 200px;
     padding-right: 200px;
     padding-bottom: 100px;
-    gap: 150px;
+    gap: 100px;
 }
 .header {
     align-items: baseline;
@@ -32,6 +32,7 @@ button {
     font-weight: 700;
     padding: 10px 24px;
     border-radius: 8px;
+    border: 2px solid #1f2937;
 }
 .content_right {
     position: relative;
@@ -94,7 +95,7 @@ img {
     padding: 10px;
 }
 .subtext {
-    font-size: 16px;
+    font-size: 18px;
     text-align: center;
     word-wrap: break-word;
     max-width: 100px;
@@ -109,7 +110,7 @@ img {
     padding-right: 300px;
 }
 .quote {
-    font-size: 36px;
+    font-size: 48px;
     font-style: italic;
     font-weight: 50;
     color: #1f2937;
@@ -118,9 +119,33 @@ img {
     padding-bottom: 10px;
 }
 .thor {
-    font-size: 18px;
+    font-size: 24px;
     font-weight: 900;
     /* justify-content: right; */
     text-align: right;
     padding-bottom: 100px;
+}
+.sec4 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+.content4 {
+    width: 800px;
+    height: 150px;
+    background-color: #3882f6;
+    display: flex;
+    gap: 80px;
+    align-items: center;
+    justify-content: center;
+}
+#action {
+    font-size: 24px;
+    font-weight: 900;
+    color: #F9FAF8;
+}
+#b2 {
+    border-color: #F9FAF8;
 }
