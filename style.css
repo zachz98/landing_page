@@ -149,3 +149,14 @@ img {
 #b2 {
     border-color: #F9FAF8;
 }
+.sec5 {
+    background-color: #1f2937;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 30px;
+}
+#copyright {
+    font-size: 18px;
+    color: #F9FAF8;
+}
