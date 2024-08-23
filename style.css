@@ -99,3 +99,28 @@ img {
     word-wrap: break-word;
     max-width: 100px;
 }
+.sec3 {
+    background-color: #e5e7eb;
+}
+.content3 {
+    display: flex;
+    flex-direction: column;
+    padding-left: 300px;
+    padding-right: 300px;
+}
+.quote {
+    font-size: 36px;
+    font-style: italic;
+    font-weight: 50;
+    color: #1f2937;
+    text-align: center;
+    padding-top: 100px;
+    padding-bottom: 10px;
+}
+.thor {
+    font-size: 18px;
+    font-weight: 900;
+    /* justify-content: right; */
+    text-align: right;
+    padding-bottom: 100px;
+}
